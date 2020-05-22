@@ -1,0 +1,15 @@
+extends base
+
+block content
+  
+  main.main
+    .container
+      each book in books
+        a.card-wrapper(href=`\\book\\${book.id}`)
+          .card
+            .book-cover
+              figure
+                img(src=book.cover alt=book.title)
+            .card-info
+              .title= book.title.length>20?`${book.title.substring(0,20)}...`:book.title
+              span.author= book.author[0]

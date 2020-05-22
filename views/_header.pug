@@ -1,0 +1,13 @@
+header.header
+  .header__logo
+    a(href='/')
+     img.logo(src='img/logo.png' alt='logo')
+  .header__user
+    if user
+      a.signup-btn.header__user--login.js--logoutBtn(href='#') log out
+      a.header-avatar(href='#')
+        img(src=`img/users/${user.avatar}` alt=`Avatar of ${user.username}`)
+        span= user.username
+    else
+      a.signup-btn.header__user--login(href='/login') login
+      a.signup-btn.header__user--signup(href='#') sign up

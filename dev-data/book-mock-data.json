@@ -1,0 +1,149 @@
+[
+  {
+    "title": "C++编程思想（两卷合订本）",
+    "author": "(美)Bruce Eckel, Chuck Allison　著",
+    "press": "",
+    "language": "zh"
+  },
+  {
+    "title": "C++ Primer, 5/e",
+    "author": "Lippman, Stanley B.",
+    "press": "Pearson Education (USA)",
+    "language": "en"
+  },
+  {
+    "title": "C#入门经典(第7版) C# 6.0 & Visual Studio 2015 (.NET开发经典名著)",
+    "author": "[美]Benjamin Perkins",
+    "press": "清华大学出版社",
+    "language": "zh"
+  },
+  {
+    "title": "Hands-On GUI Programming with C++ and Qt5",
+    "author": "Lee Zhi Eng",
+    "press": "Packt Publishing",
+    "language": "en-us",
+    "summary": "<span><p><b>Create visually appealing and feature-rich applications by using Qt 5 and the C++ language</b></p><b>About This Book</b><ul><li>Explore Qt 5's powerful features to easily design your GUI application</li><li>Leverage Qt 5 to build attractive cross-platform applications</li><li>Work with Qt modules for multimedia, networking, and location, to customize your Qt applications</li></ul><b>Who This Book Is For</b><p>This book will appeal to developers and programmers who would like to build GUI-based applications. Basic knowledge of C++ is necessary and the basics of Qt would be helpful.</p><b>What You Will Learn</b><ul><li>Implement tools provided by Qt 5 to design a beautiful GUI</li><li>Understand different types of graphs and charts supported by Qt 5</li><li>Create a web browser using the Qt 5 WebEngine module and web view widget</li><li>Connect to the MySQL database and display data obtained from it onto the Qt 5 GUI</li><li>Incorporate the Qt 5 multimedia and networking module in your application</li><li>Develop Google Map-like applications using Qt 5's location module</li><li>Discover cross-platform development by exporting the Qt 5 application to different platforms</li><li>Uncover the secrets behind debugging Qt 5 and C++ applications</li></ul><b>In Detail</b><p>Qt 5, the latest version of Qt, enables you to develop applications with complex user interfaces for multiple targets. It provides you with faster and smarter ways to create modern UIs and applications for multiple platforms. This book will teach you to design and build graphical user interfaces that are functional, appealing, and user-friendly.</p><p>In the initial part of the book, you will learn what Qt 5 is and what you can do with it. You will explore the Qt Designer, discover the different types of widgets generally used in Qt 5, and then connect your application to the database to perform dynamic operations. Next, you will be introduced to Qt 5 chart which allows you to easily render different types of graphs and charts and incorporate List View Widgets in your application. You will also work with various Qt modules, like QtLocation, QtWebEngine, and the networking module through the course of the book. Finally, we will focus on cross-platform development with QT 5 that enables you to code once and run it everywhere, including mobile platforms.</p><p>By the end of this book, you will have successfully learned about high-end GUI applications and will be capable of building many more powerful, cross-platform applications.</p><b>Style and approach</b><p>This is a comprehensive guide that explores the essential Qt features and implement them in building real-world cross-platform GUI applications</p><p>Downloading the example code for this book You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span>"
+  },
+  {
+    "title": "Mastering Qt 5",
+    "author": "Lazar, Guillaume",
+    "press": "Packt Publishing",
+    "language": "en"
+  },
+  {
+    "title": "Introduction to Networking",
+    "author": "Charles Severance",
+    "language": "en-us"
+  },
+  {
+    "title": "Qt及Qt Quick开发实战精解 (Qt应用编程系列丛书)",
+    "author": "霍亚飞",
+    "press": "北京航空航天大学出版社",
+    "language": "zh"
+  },
+  {
+    "title": "SQL必知必会（第4版）",
+    "author": "Ben Forta",
+    "ISBN": "9787115313980",
+    "press": "人民邮电出版社",
+    "language": "zh"
+  },
+  {
+    "title": "The Missing Link",
+    "author": "Michael Mendez",
+    "press": "Open SUNY Textbooks",
+    "language": "en-us"
+  },
+  {
+    "title": "Python网络数据采集",
+    "author": "[美] Ryan Mitchell",
+    "ISBN": "9787115416292",
+    "press": "人民邮电出版社",
+    "language": "zh"
+  },
+  { "title": "三体全集", "author": "刘慈欣", "press": "", "language": "zh-cn" },
+  {
+    "title": "图灵程序设计丛书:图解TCP/IP(第5版)",
+    "author": "村山公保",
+    "press": "人民邮电出版社",
+    "language": "zh"
+  },
+  {
+    "title": "图解HTTP (图灵程序设计丛书)",
+    "author": "[日]上野",
+    "ISBN": "978-7-115-35153-1",
+    "press": "人民邮电出版社",
+    "language": "zh-cn"
+  },
+  {
+    "title": "好好说话：新鲜有趣的话术精进技巧",
+    "author": "马薇薇",
+    "ISBN": "9787508671505",
+    "press": "中信出版社",
+    "language": "zh"
+  },
+  {
+    "title": "如何学习",
+    "author": "[美]本尼迪克特·凯里",
+    "press": "浙江人民出版社",
+    "language": "zh"
+  },
+  {
+    "title": "大象——ThinkinginUML（第二版）",
+    "author": "谭云杰",
+    "press": "中国水利水电出版社",
+    "language": "zh"
+  },
+  {
+    "title": "如何阅读一本书",
+    "author": "莫提默·J·艾德勒",
+    "press": "epub掌上书苑",
+    "summary": "每本书的封面之下都有一套自己的骨架,作为一个分析阅读的读者,你的责任就是要找出这个骨架。一本书出现在你面前时,肌肉包着骨头,衣服包裹着肌肉,可说是盛装而来。你用不着揭开它的外衣或是撕去它的肌肉,才能得到在柔软表皮下的那套骨架。但是你一定要用一双X光般的透视眼来看这本书,因为那是你了解一本书、掌握其骨架的基础。\n本书初版于1940年,1972年大幅增订改写为新版。不论什么时候读,都不能不叹服作者对阅读用心之深,视野之广。不懂阅读的人,初探阅读的人,读这本书可以少走冤枉路。对阅读有所体会的人,读这本书可以有更深的印证和领悟。这是一本有关阅读的永不褪色的经典。"
+  },
+  {
+    "title": "学习正则表达式 (图灵程序设计丛书)",
+    "author": "Fitzgerald, Michael",
+    "ISBN": "9787115311498",
+    "press": "人民邮电出版社",
+    "language": "zh"
+  },
+  {
+    "title": "批判性思维套装共6册（如何高效学习+学会提问+专注力:化繁为简的惊人力量+思考的艺术(原书第10版)+批判性思维工具(原书第3版)+逻辑思维简易入门）",
+    "author": "（M. 尼尔·布朗（M. Neil Browne） 斯图尔特·基利（Stuart M. Keeley）",
+    "press": "",
+    "language": "zh"
+  },
+  {
+    "title": "正念",
+    "author": "（美）卡巴金",
+    "press": "COAY.COM",
+    "language": "zh-cn",
+    "summary": "正念"
+  },
+  {
+    "title": "流畅的Python",
+    "author": "[巴西] Luciano Ramalho",
+    "ISBN": "978-7-115-45415-7",
+    "press": "人民邮电出版社",
+    "language": "zh-cn"
+  },
+  { "title": "深入理解计算机网络", "author": "王达", "language": "zh" },
+  {
+    "title": "正则表达式必知必会 (图灵程序设计丛书 71)",
+    "author": "〔美〕Ben Forta",
+    "ISBN": "978-7-115-16474-2",
+    "press": "",
+    "language": "zh-cn"
+  },
+  {
+    "title": "现代操作系统（原书第3版） (计算机科学丛书)",
+    "author": "Andrews Tanenbaum",
+    "language": "zh"
+  },
+  {
+    "title": "疯狂HTML 5/CSS 3/JavaScript讲义",
+    "author": "李刚",
+    "language": "zh",
+    "summary": "]]>"
+  }
+]

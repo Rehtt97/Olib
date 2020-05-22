@@ -1,0 +1,61 @@
+{
+  "name": "olib",
+  "version": "1.0.0",
+  "description": "A power, beautiful online reader.We are dedicated to provide advanced reading experience.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js && ./node_modules/.bin/webpack --progress",
+    "start:prod": "cross-env NODE_ENV=production nodemon server.js && ./node_modules/.bin/webpack --progress",
+    "debug": "ndb server.js",
+    "watch:js": "parcel watch ./public/js/index.js --out-dir ./public/js --out-file bundle.js",
+    "build:js": "parcel watch ./public/js/index.js --out-dir ./public/js --out-file bundle.js"
+  },
+  "author": "Rehtt97",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "clone-deep": "^4.0.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "epub": "^1.2.0",
+    "epub-cover-extractor": "^1.0.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-mongo-sanitize": "^2.0.0",
+    "express-rate-limit": "^5.1.1",
+    "extract-zip": "^2.0.0",
+    "helmet": "^3.22.0",
+    "hpp": "^0.2.3",
+    "html-to-text": "^5.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.4",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.6",
+    "pug": "^2.0.4",
+    "rimraf": "^3.0.2",
+    "sharp": "^0.25.2",
+    "validator": "^12.2.0",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.1.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "ndb": "^1.1.5",
+    "nodemon": "~2.0.2",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.2"
+  },
+  "engines": {
+    "node": "^10.0.0"
+  }
+}
