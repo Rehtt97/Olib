@@ -22,7 +22,7 @@
     "epub": "^1.2.0",
     "epub-cover-extractor": "^1.0.3",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "express-mongo-sanitize": "^2.0.0",
     "express-rate-limit": "^5.1.1",
     "extract-zip": "^2.0.0",
